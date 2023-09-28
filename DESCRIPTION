@@ -10,11 +10,12 @@ Description: More about what it does (maybe more than one line)
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
-Imports: 
 RoxygenNote: 7.2.3
 Suggests: 
     knitr,
-    rmarkdown
+    rmarkdown,
+    testthat (>= 3.0.0)
 VignetteBuilder: knitr
 URL: https://github.com/winfrednyoroka/winfredtestpackage
 BugReports: https://github.com/winfrednyoroka/winfredtestpackage/issues
+Config/testthat/edition: 3
