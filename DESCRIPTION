@@ -16,3 +16,5 @@ Suggests:
     knitr,
     rmarkdown
 VignetteBuilder: knitr
+URL: https://github.com/winfrednyoroka/winfredtestpackage
+BugReports: https://github.com/winfrednyoroka/winfredtestpackage/issues
