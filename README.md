@@ -10,10 +10,9 @@ se_diff_calculator aims to calculate a difference's standard errors (pass two st
 # Installation
 
 To install this package from Github with:
-`
-# install.packages('devtools')
-devtools:install("winfrednyoroka/winfredtestpackage")
-`
+
+`# install.packages('devtools')
+devtools:install("winfrednyoroka/winfredtestpackage")`
 
 # Usage
 
