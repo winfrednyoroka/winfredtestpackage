@@ -6,7 +6,7 @@ Author: Winfred Nyoroka Gatua
 Maintainer: Winfred Gatua <winfred.gatua@bristol.ac.uk>
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
-    This package has all my handy helper functions for my first PhD objective
+    This package has all my handy helper functions for my first PhD objective.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
