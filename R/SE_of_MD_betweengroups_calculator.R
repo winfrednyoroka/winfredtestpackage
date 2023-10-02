@@ -13,8 +13,8 @@
 #' @examples
 #' SE_of_MD_betweengroups_calculator(n1 = 100,n2 = 100,sd1 = 4,sd2 = 3)
 SE_of_MD_betweengroups_calculator <- function(n1,n2,sd1,sd2){
-  # Sdpoooled is the pooled standard deviation between the two groups
-  sdpooled =sqrt((((n1-1)*sd1^2) + ((n2-1)*sd2^2)) / ((n1-1)+(n2-1)))
+  # Spoooled is the pooled standard deviation between the two groups
+  spooled = sqrt((((n1-1)*sd1^2) + ((n2-1)*sd2^2)) / ((n1-1)+(n2-1)))
 
   seMDbetween = spooled*sqrt(1/n1 +1/n2)
 
