@@ -37,4 +37,11 @@ Provided standard deviations of two groups and their sample sizes; calculate the
 ```
 se_diff_calculator(2,2,6,10)
 ```
- 
+
+**Usecase3:**
+Provided the sample sizes of the groups and standard deviations; calculate the standard errors of the MD between groups.
+
+#Example
+```
+SE_of_MD_betweengroups_calculator(n1 = 100,n2 = 100,sd1 = 4,sd2 = 3)
+```
